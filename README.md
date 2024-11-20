@@ -1,6 +1,5 @@
 # Water Tank Visualizer
 
-### Live here: - https://prabhashrai02.github.io/water_tank_visualizer/
 
 ### This is a visual representation of Water Tank problem
 Problem Statement: - 
